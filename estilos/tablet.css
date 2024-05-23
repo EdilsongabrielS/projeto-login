@@ -41,7 +41,7 @@ main > div {
 
 main{
     transition: height 0.5s;
-    transition: width 0.5s;
+    transition: width 0.5 s;
 width: 700px;
 height: 260px;
 position: absolute;
